@@ -7,9 +7,8 @@ _A list of commonly used Search Engines and Commands_
 
 ## Infos
 - square brackets `[optional]`
-- angle brackets `<revuired>`
+- angle brackets `<required>`
 - `<ST>` = `<SEARCH_TERM>`
-
 
 ---
 
@@ -57,12 +56,15 @@ _A list of commonly used Search Engines and Commands_
 | `qrcode <TEXT>` | Create a qrcode |
 | `vim cheat sheet` | Show a cheat sheet |
 
+---
 
+### Shortcuts
 
-
-### Temp
-- h - go to seach box
-- m - main result
-- t - go to top
-- v - open result in new tab
-- enter - open result in current tab
+| Command | Description |
+| ------- | ----------- |
+| `h` | go to search box |
+| `m` | select main result |
+| `t` | go to top |
+| `v` | open result in new tab |
+| `Ctrl + ENTER` | open result in new background tab |
+| `ENTER` | open result in current tab |
